@@ -98,6 +98,7 @@ source_options = {
     "note (#自動化)": "https://note.com/hashtag/自動化/rss",
     "note (#AntiGravity)": "https://note.com/hashtag/AntiGravity/rss",
     "note (#AgentSkills)": "https://note.com/hashtag/AgentSkills/rss",
+    "note (#OpenClaw)": "https://note.com/hashtag/OpenClaw/rss",
     
     # 技術ブログ
     "Zenn (AIトピック)": "https://zenn.dev/topics/ai/feed"
